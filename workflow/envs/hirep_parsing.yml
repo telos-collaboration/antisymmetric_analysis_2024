@@ -19,17 +19,14 @@ dependencies:
   - libedit=3.1.20191231
   - libev=4.33
   - libexpat=2.6.3
-  - libgfortran=5.0.0
-  - libgfortran5=13.2.0
+  - libgfortran5
   - libhwloc=2.11.1
   - libiconv=1.17
-  - libintl=0.22.5
   - liblapack=3.9.0
   - libnghttp2=1.58.0
   - libopenblas=0.3.27
   - libopenblas-ilp64=0.3.28
   - libopenlibm4=0.8.1
-  - libosxunwind=0.0.6
   - libssh2=1.11.0
   - libutf8proc=2.8.0
   - libxml2=2.12.7
@@ -48,4 +45,4 @@ dependencies:
   - tbb=2021.13.0
   - xz=5.2.6
   - zlib=1.3.1
-  - zstd=1.5.6
+  - zstd
