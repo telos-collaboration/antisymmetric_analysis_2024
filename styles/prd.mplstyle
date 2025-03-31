@@ -2,7 +2,7 @@ text.usetex : True
 font.size : 9
 font.family : serif
 font.serif : Times New Roman
-text.latex.preamble : \usepackage{mathptmx}
+text.latex.preamble : \usepackage{mathptmx} \DeclareFontFamily{U}{cal}{} \DeclareFontShape{U}{cal}{m}{n}{<->cmsy10}{} \DeclareSymbolFont{rcal}{U}{cal}{m}{n} \DeclareSymbolFontAlphabet{\mathcal}{rcal}
 
 lines.linewidth : 0.5
 lines.markersize : 5
